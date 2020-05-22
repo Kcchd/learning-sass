@@ -1,0 +1,11 @@
+.test {
+  background: palegreen; }
+  .test p {
+    color: palevioletred; }
+
+p {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 2em; }
+
+/*# sourceMappingURL=style.css.map */
